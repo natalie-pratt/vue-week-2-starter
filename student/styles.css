@@ -17,4 +17,7 @@ th, tr {
     font-weight: bold;
 }
 
+[v-cloak] {
+    display: none;
+}
 
