@@ -2,3 +2,23 @@
     max-height: 250px;
     overflow: scroll;
 }
+
+.sketchStyle {
+    background-color:#679cad;
+    color: white;
+}
+
+.drawStyle {
+    background-color: #8BB9C3;
+    color: white;
+}
+
+.paintStyle {
+    background-color: #83bac783;
+    color: white;
+}
+
+#notes {
+    resize: both;
+    overflow: auto;
+}
